@@ -1,42 +1,27 @@
-# [Hossam Mourad] - Junior Frontend Developer
+<h1 align="center">Hi 👋, I'm Hossam Mourad</h1>
+<h3 align="center">A passionate frontend developer from Egypt</h3>
 
-👋 Hi there! I'm [Hossam Mourad], a passionate Junior Frontend Developer based [your location]. Welcome to my GitHub profile!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=developermourad&label=Profile%20views&color=0e75b6&style=flat" alt="developermourad" /> </p>
 
-## About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developermourad" alt="developermourad" /></a> </p>
 
-I am a detail-oriented and creative frontend developer with a strong foundation in web technologies. My goal is to create engaging and user-friendly web experiences.
+<p align="left"> <a href="https://twitter.com/developermourad" target="blank"><img src="https://img.shields.io/twitter/follow/developermourad?logo=twitter&style=for-the-badge" alt="developermourad" /></a> </p>
 
-## Skills
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/developermourad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="developermourad" height="30" width="40" /></a>
+<a href="https://twitter.com/developermourad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developermourad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/developermourad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developermourad" height="30" width="40" /></a>
+<a href="https://fb.com/developermourad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="developermourad" height="30" width="40" /></a>
+<a href="https://instagram.com/developermourad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developermourad" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/developermourad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="developermourad" height="30" width="40" /></a>
+</p>
 
-- HTML5, CSS3, JavaScript,and React.js
-- Responsive design and cross-browser compatibility
-- Version control with Git
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## Projects
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developermourad&show_icons=true&locale=en&layout=compact" alt="developermourad" /></p>
 
-Here are some of the projects I've worked on:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developermourad&show_icons=true&locale=en" alt="developermourad" /></p>
 
-1. **[Project Name 1]**
-   - Brief description
-   - Technologies used: [list of technologies]
-
-2. **[Project Name 2]**
-   - Brief description
-   - Technologies used: [list of technologies]
-
-## Let's Connect
-
-Feel free to connect with me on social media or professional platforms:
-
-- [LinkedIn](https://www.linkedin.com/in/developermourad)
-- [Twitter](https://twitter.com/developermourad)
-
-## Contact
-
-You can reach out to me via email at [hossamfarouqmourad@gmail.com].
-
-## 🚀 Let's Collaborate!
-
-I'm always open to new opportunities and collaborations. If you have a project or an idea, let's chat and see how we can work together to bring it to life.
-
-Thank you for visiting my GitHub profile! 😊
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developermourad&" alt="developermourad" /></p>
