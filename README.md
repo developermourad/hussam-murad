@@ -7,7 +7,4 @@
     <a href="https://www.youtube.com/@developermourad"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
     <a href="https://www.instagram.com/developermourad/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
-  
-  <img src="https://github.com/developermourad/developermourad/blob/master/profile-img.png" align="right" width="25%"/>
-
 I'm a frontend developer who is passionate about creating technology to elevate people. Some technologies I enjoy working with include HTML, CSS, JavaScript, and React.js.
